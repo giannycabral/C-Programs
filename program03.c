@@ -7,9 +7,9 @@ int main(){
 	scanf("%d",&idade);
 	
    if(idade >=18){
-   	printf("Você é maior de idade");
+   	printf("VocÃª Ã© maior de idade");
    }else{
-   	printf("Você é menor de idade");
+   	printf("VocÃª Ã© menor de idade");
    }
    
    return 0;
