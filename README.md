@@ -13,7 +13,7 @@ Bem-vindo ao **C-Programs**! Este repositório é uma coleção de códigos e pr
 **C-Programs** é um repositório dedicado a fornecer exemplos práticos e tutoriais detalhados sobre a linguagem C. Quer você seja um iniciante ou um desenvolvedor experiente, há algo aqui para todos. Explore algoritmos clássicos, resolva exercícios desafiadores e aprenda boas práticas de programação.
 
 ## Contribuição 🤝
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para maiores detalhes, consulte o arquivo CONTRIBUTING.md.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para maiores detalhes, consulte o arquivo [CONTRIBUTING.md](https://CONTRIBUTING.md)
 
 ## Instalação ⚙️ 
 Para clonar este repositório, use o seguinte comando: 
